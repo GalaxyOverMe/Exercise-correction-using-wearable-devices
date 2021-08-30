@@ -1,6 +1,7 @@
 # 2021 경희대학교 창의적 종합 설계 경진대회 (06/26 ~ 08/25)
 
 ## 웨어러블 기기를 이용한 운동 교정
+
 <hr>
 ### Introduction video : http://gofile.me/6RwKc/3Ev3ASiak
 
