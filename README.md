@@ -10,7 +10,7 @@
 <b>가속도 센서의 오차를 카메라를 이용하여 학습하고 테스트 시에는 가속도 센서만으로 측정할 수 있게 된다. </b>
 <hr>
 
-사용한 센서 : Xsens社의 Xsens Dot 
+사용한 센서 : Xsens社의 Xsens Dot <br>
 Xsens는 MEMS(Micro-Electro-Mechanical-System) 센서회사 중 가장 비싸지만 정확하다.
 
 <h3> 애로사항 </h3>
