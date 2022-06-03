@@ -2,7 +2,7 @@
 ### 2021 경희대학교 창의적 종합 설계 경진대회 (06/26 ~ 08/25)(최우수상)
 
 
-<h3> Introduction video : http://gofile.me/6RwKc/3Ev3ASiak </h3>
+<h3> Introduction video : (http://gofile.me/6XLtq/6ItPPRwxU) </h3>
 
 
 프로젝트 진행시 어려웠던 점을 기록하여 같은 실수를 두 번 반복하지 않도록 하자.
